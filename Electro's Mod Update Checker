@@ -1,0 +1,11 @@
+{
+  "homepage": "https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods",
+  "1.20.1": {
+    "1.4.1": "Melee AI Task for entities Update",
+    "1.4": "Pre-Release: Start Mod" 
+  },
+  "promos": {
+    "1.20.1-latest": "1.4.2",
+    "1.20.1-recommended": "1.3"
+  }
+}

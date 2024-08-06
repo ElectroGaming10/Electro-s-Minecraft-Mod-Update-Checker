@@ -1,7 +1,7 @@
 {
   "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge OR For Mods 1.4.10+: CurseForge: https://www.curseforge.com/minecraft/mc-mods/electros-powercraft/files/all Modrinth: https://modrinth.com/mod/electros-powercraft/",
   "1.19.2":{
-    "1.4.10.8": "Bug Fixed: ALS System - Sedate Applier",
+    "1.4.10.8": "Bug Fixes: ALS System - Sedate Applier",
     "1.4.10.7": "Added Song: Electro's PowerCraft Mod - Restful Vibes, Davboy28 - Taco's Song (Remastered), Davboy28 - Spooky Graveyards, Added Item - Music Disc: Davboy's Friends - Taco's Song (Remastered), Davboy28 - Smiling Critters (Rebooted), Davboy28- Ethereal Expanse, Davboy's Friends - Davboy's Song (Electro's Cover), Ice Bow Animation, Potion of Chilliness, Sound Subtitles, Mob Attributes Scale, Champions, Gamerule - Spawn Champions, Languages: Filipino (Philippines), German (Germany), French (France), Modified: HP of Entities, Overlay - Bleeding, Electric Powered Soldier Attacks, ALS Counter, Ice Bow, Ice Arrow, Fixed: ALS - Effects, Structures - Medical Workhouse, Sounds - Shocked, Freezing, Medical Cabinet Hardness, Electro's Melee Book, Edited Languages: ES-ES, ES-MX, JA-JP, Bug Fixes: Recipe Unlocker"
   },
   "1.20.1": {

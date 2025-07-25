@@ -9,6 +9,9 @@
     "1.4.11.4": "Bug Fixes: SOM Worker, Added Sound: Spider Bite, Added Items: Book of Inspiration and Book of Restless, Added Recipes:  Electro's Armor Recipe, Added Effects: Inspiration, Modified: Survival Starter Pack, Mod Description, PJC System, ALS System Effect Giver, ALS System, Librarian Trades, TBH Effect Giver System, Freezing Attribute System, Hit SFX System, Spawning Scale System, Spawning Attributes System and Nether Heatness Immunity Enchantment Properties, Others: Added GUI, Added SB System, SB BOI System ; Added Book of Inspiration System and Added SB BOR System, Added Recipe Unlocker: Empty Bowl, Powerful Gunpowder II, Electric Armor and Electro's Armor"
   },
   "1.20.1": {
+    "1.4.11.7.3590": "1.4.11.8 Snapshot Update:", 
+    "1.4.11.7.3000": "1.4.11.8 Snapshot Update:", 
+    "1.4.11.7.2610": "1.4.11.8 Snapshot Update:", 
     "1.4.11.7.2000": "1.4.11.8 Snapshot Update:", 
     "1.4.11.7.1890": "1.4.11.8 Snapshot Update:",
     "1.4.11.7.1620": "1.4.11.8 Snapshot Update: Modified: Modified Medicine Delay Status Effect - Modified Concussion Resistance Modified Concussion Status Effect - Attribute Giver (Attack Damage), Modified Jackson Zombiez - Level: 1 - AI Tasks, Modified Zombie Infection - Mild Decay Affected (Added Infection Particles), Modified Zombie Infection - Players (Added Display Name System), Modified Zombie Infection - Mild Decay Affected (Added Display Name System), Modified Zombie Infection - Players (Added Zombified Entities to Blacklist), Modified Zombie Infection - Players (Added Zombie Tag to Blacklist), Modified Zombie Infection - Ice Soldier (Modified Infection Particles), Modified Zombified Skeleton - Level: 2 (Entity Base), Modified Zombified Skeleton - Level: 2 (Modified AI Tasks), Modified BLFA Added Immunity (Cat), Modified Element Tag - Electric Soldier - Level: 1 (Added Electric Soldier - Level: 1 Trainer), Modified Splinted Leg Status Effect - Added SPLDA Variable, Modified Splinted Leg Status Effect - Added SPLSS Variable, Modified Sprained Leg Status Effect - Added SLSS Variable, Modified Broken Leg Status Effect - Added BLSS Variable, Modified TBH Temperature Controller System - Modified Armor Temperature Changes, Modified Bleeding Status Effect - Modified Effect Color, Modified Electro's PowerCraft Spawning Scale Difficulties System, Others: Added Element Tag - Jackson's Axe, Added Element Tag - Electric Pickaxe, Added Element Tag - Electric Sword III, Added Element Tag - Jackson Entities, Added Variable - MIR/Mob in Range System, Added MIR Detector, Added Attack Sickened Mobs System, Added Element Tag - Electric Soldier - Level: 1, Added Element Tag - Electric Soldier - Level: 2, Added SPLDA Variable System, Added SPLSS Variable System, Added SLSS Variable System, Added BLSS Variable System, Added AATST Variable System, Added AATST Counter, Added AATST Applier",
@@ -46,7 +49,7 @@
     "1.19.2-recommended": "1.4.11.4",
     "1.19.4-latest": "1.4.11.4",
     "1.19.4-recommended": "1.4.11.4",
-    "1.20.1-latest": "1.4.11.7.2000",
+    "1.20.1-latest": "1.4.11.7.3590",
     "1.20.1-recommended": "1.4.10",
     "1.20.4-latest": "1.4.11.4",
     "1.20.4-recommended": "1.4.11.4"

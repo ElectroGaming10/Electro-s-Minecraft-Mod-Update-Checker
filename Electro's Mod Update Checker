@@ -9,6 +9,7 @@
     "1.4.11.4": "Bug Fixes: SOM Worker, Added Sound: Spider Bite, Added Items: Book of Inspiration and Book of Restless, Added Recipes:  Electro's Armor Recipe, Added Effects: Inspiration, Modified: Survival Starter Pack, Mod Description, PJC System, ALS System Effect Giver, ALS System, Librarian Trades, TBH Effect Giver System, Freezing Attribute System, Hit SFX System, Spawning Scale System, Spawning Attributes System and Nether Heatness Immunity Enchantment Properties, Others: Added GUI, Added SB System, SB BOI System ; Added Book of Inspiration System and Added SB BOR System, Added Recipe Unlocker: Empty Bowl, Powerful Gunpowder II, Electric Armor and Electro's Armor"
   },
   "1.20.1": {
+    "1.4.11.7.5730": "1.4.11.8 Snapshot Update:",
     "1.4.11.7.5080": "1.4.11.8 Snapshot Update:",
     "1.4.11.7.3590": "1.4.11.8 Snapshot Update:",
     "1.4.11.7.3000": "1.4.11.8 Snapshot Update:",
@@ -51,8 +52,8 @@
     "1.19.2-recommended": "1.4.11.4",
     "1.19.4-latest": "1.4.11.4",
     "1.19.4-recommended": "1.4.11.4",
-    "1.20.1-latest": "1.4.11.7.5080",
-    "1.20.1-recommended": "1.4.11.7.1890",
+    "1.20.1-latest": "1.4.11.7.5730",
+    "1.20.1-recommended": "1.4.11.7.5730",
     "1.20.4-latest": "1.4.11.4",
     "1.20.4-recommended": "1.4.11.4"
   }
